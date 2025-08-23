@@ -29,8 +29,9 @@ Explicação: Após remover os caracteres não alfanuméricos, s torna-se uma st
 ## Critérios de Avaliação
 Código limpo e bem organizado
 
-Nomeação adequada de variáveis e funções
+- Nomeação adequada de variáveis e funções
 
-Tratamento correto das restrições
+- Tratamento correto das restrições
 
-Implementação eficiente (considerando a abordagem de dois ponteiros)
+- Implementação eficiente (considerando a abordagem de dois ponteiros)
+
