@@ -18,16 +18,16 @@ Você poderá resolver os desafios na **linguagem de programação de sua prefer
 
 ##  Lista de Desafios
 
-- [01 - Soma de Dois Números](desafios/01-soma-de-dois-numeros/README.md)
-- [02 - Verificador de Palíndromo](desafios/02-verificador-de-palindromo/README.md)
-- [03 - FizzBuzz](desafios/03-fizzbuzz/README.md)
-- [04 - Maximum Subarray](desafios/04-maximum-subarray/README.md)
-- [05 - Best Time to Buy and Sell Stock](desafios/05-best-time-stock/README.md)
-- [06 - Climbing Stairs](desafios/06-climbing-stairs/README.md)
-- [07 - Valid Parentheses](desafios/07-valid-parentheses/README.md)
-- [08 - Merge Intervals](desafios/08-merge-intervals/README.md)
-- [09 - Missing Number](desafios/09-missing-number/README.md)
-- [10 - Median of Two Sorted Arrays](desafios/10-median-two-arrays/README.md)
+- [01 - Soma de Dois Números](01-soma-de-dois-numeros/README.md)
+- [02 - Verificador de Palíndromo](02-verificador-de-palindromo/README.md)
+- [03 - FizzBuzz](03-fizzbuzz/README.md)
+- [04 - Maximum Subarray](04-maximum-subarray/README.md)
+- [05 - Best Time to Buy and Sell Stock](05-best-time-to-buy-and-sell-stock/README.md)
+- [06 - Climbing Stairs](06-climbing-stairs/README.md)
+- [07 - Valid Parentheses](07-valid-parentheses/README.md)
+- [08 - Merge Intervals](08-merge-intervals/README.md)
+- [09 - Missing Number](09-missing-number/README.md)
+- [10 - Median of Two Sorted Arrays](10-median-of-two-sorted-arrays/README.md)
 
 ---
 
