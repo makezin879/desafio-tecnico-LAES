@@ -14,6 +14,8 @@ Você poderá resolver os desafios na **linguagem de programação de sua prefer
 2. Você pode resolver os desafios em **qualquer linguagem** de programação.  
 3. Ao concluir, faça o **commit** das suas soluções.
 4. Quando concluir todos os desafios, abra um **Pull Request** para este repositório.
+
+⚠️**Importante:** Se não for possível concluir todos os desafios dentro do prazo, envie um Pull Request com o que você conseguiu fazer para que sua solução parcial seja avaliada.
 ---
 
 ##  Lista de Desafios
