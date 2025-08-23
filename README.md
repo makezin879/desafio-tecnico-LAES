@@ -27,7 +27,7 @@ Você poderá resolver os desafios na **linguagem de programação de sua prefer
 - [07 - Valid Parentheses](07-valid-parentheses/README.md)
 - [08 - Merge Intervals](08-merge-intervals/README.md)
 - [09 - Missing Number](09-missing-number/README.md)
-- [10 - Median of Two Sorted Arrays](10-median-of-two-arrays/README.md)
+- [10 - Median of Two Sorted Arrays](10-median-two-arrays/README.md)
 
 ---
 
