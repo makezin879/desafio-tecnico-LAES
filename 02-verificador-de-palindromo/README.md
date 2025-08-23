@@ -26,12 +26,5 @@ Entrada: s = " "
 Saída: true
 Explicação: Após remover os caracteres não alfanuméricos, s torna-se uma string vazia "". Como uma string vazia lida igual nos dois sentidos, é um palíndromo.
 ```
-## Critérios de Avaliação
-Código limpo e bem organizado
 
-- Nomeação adequada de variáveis e funções
-
-- Tratamento correto das restrições
-
-- Implementação eficiente (considerando a abordagem de dois ponteiros)
 
