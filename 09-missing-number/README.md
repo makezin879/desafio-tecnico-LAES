@@ -24,3 +24,10 @@ Entrada: nums = [9,6,4,2,3,5,7,0,1]
 Saída: 8
 Explicação: n = 9, então os números esperados são [0,1,2,3,4,5,6,7,8,9]. O número 8 está faltando.
 ```
+### **Próximos Passos**
+
+1.  **Implemente a Solução:** Crie um arquivo de código para resolver o desafio. Siga os critérios de avaliação e certifique-se de que sua solução é limpa e organizada.
+
+2.  **Faça o Commit:** Ao finalizar sua solução, use a seguinte mensagem de commit semântico: `feat: Resolve o desafio '[Nome do Desafio]'`.
+
+3.  **Vá para o Próximo:** Continue para o próximo desafio na lista.

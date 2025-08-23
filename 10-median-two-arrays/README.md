@@ -36,3 +36,12 @@ Explicação: O array mesclado é [1,2,3,4], e a mediana é (2 + 3) / 2 = 2.5
 - 1 <= m + n <= 2000
 
 - -10⁶ <= nums1[ i ], nums2[ i ] <= 10⁶
+---
+
+### **Próximos Passos**
+
+1.  **Implemente a Solução:** Crie um arquivo de código para resolver o desafio. Siga os critérios de avaliação e certifique-se de que sua solução é limpa e organizada.
+
+2.  **Faça o Commit:** Ao finalizar sua solução, use a seguinte mensagem de commit semântico: `feat: Resolve o desafio '[Nome do Desafio]'`.
+
+3.  **Vá para o Próximo:** Continue para o próximo desafio na lista.

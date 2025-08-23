@@ -31,3 +31,10 @@ Exemplo 4
 Entrada: s = "([)]"
 Saída: false
 ```
+### **Próximos Passos**
+
+1.  **Implemente a Solução:** Crie um arquivo de código para resolver o desafio. Siga os critérios de avaliação e certifique-se de que sua solução é limpa e organizada.
+
+2.  **Faça o Commit:** Ao finalizar sua solução, use a seguinte mensagem de commit semântico: `feat: Resolve o desafio '[Nome do Desafio]'`.
+
+3.  **Vá para o Próximo:** Continue para o próximo desafio na lista.
