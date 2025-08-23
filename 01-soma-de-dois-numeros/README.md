@@ -32,7 +32,3 @@ Saída: [0,1]
 ```
 
 
-##  Critérios de Avaliação
-- Código limpo e bem organizado  
-- Nomeação adequada de variáveis e funções  
-- Tratamento correto das restrições 
